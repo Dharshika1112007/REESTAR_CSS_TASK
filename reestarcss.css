@@ -1,0 +1,75 @@
+*
+{
+    padding:0;
+    margin:0;
+    font-family:'Times New Roman', Times, serif ;
+}
+.container
+{
+    text-align: center;
+}
+.section-one
+{
+    background-color: black;
+    margin:20px;
+    margin-bottom:5px;
+    padding:15px;
+    text-align: center;
+    color:white;
+}
+.section-one_options
+{
+    color:gray;
+}
+.section-two,.section-three,.section-four,.section-five
+{
+    width:220px;
+    border:2px solid black;
+    margin:0px;
+    padding:5px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+.image
+{
+    width: 100%;
+    height:300px;
+    display:block;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+.section-six
+{
+    background-color: black;
+    color: white;
+    margin:20px;
+    text-align: center;
+    margin-top: 5px;
+    padding-bottom: 15px;
+}
+.section-six_contact
+{
+    padding-top:15px;
+}
+.section-six table
+{
+    margin: auto;
+}
+.section-six input{
+    padding:5px;
+    width:150px;
+}
+.section-six td{
+    padding: 0px;
+    padding-bottom: 5px;
+}
+.section-six button{
+    width:500px;
+    height:20px;
+    background-color: yellow;
+    border:none;
+    text-align:center;
+}
+
